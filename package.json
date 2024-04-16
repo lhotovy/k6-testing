@@ -1,0 +1,22 @@
+{
+  "name": "k6-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Trying Grafana k6 performance testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhotovy/k6-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhotovy/k6-testing/issues"
+  },
+  "homepage": "https://github.com/lhotovy/k6-testing#readme",
+  "dependencies": {
+  }
+}
