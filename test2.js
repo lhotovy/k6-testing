@@ -23,7 +23,7 @@ export default function () {
       'status is 200': (r) => r.status === 200,
     });
 
-  const homePageResponse  =  homepage.body;
+  const homePageResponse = homepage.body;
 
   const linkpattern = /<a href="\/product\/(.+?)">/g;
 
